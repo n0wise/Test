@@ -1,4 +1,4 @@
-# Тестовое задание Veam Software - Junior Developer in QA, Задание 2 - синхронизация каталогов
+# Тестовое задание Veeam Software - Junior Developer in QA, Задание 2 - синхронизация каталогов
 
 import os
 import logging
